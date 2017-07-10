@@ -1,0 +1,17 @@
+{
+  "full-name": "Recardo Poole",
+  "description": "He is a really tall dude!",
+  "pets": [
+    {
+      "name": "Aaron",
+      "color": "grey and white",
+      "kind": "cat"
+    }
+  ],
+  "favorites": {
+    "color": "green",
+    "number": 7,
+    "team": "tigers",
+    "video": "https://youtu.be/rVytlFNmpPM"
+  }
+}
